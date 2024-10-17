@@ -38,7 +38,7 @@ def generate_map(data_filename,zoom_start):
 
 generate_map("aqi.json", 10) #called function to generate map using aqi data from json file
 
-#"Task 9"
+# Task 9
 # Function to display aqi info
 def display_aqi_info(data_filename):
     aqi_data = main_functions.read_from_file(data_filename) #read data from the json file
