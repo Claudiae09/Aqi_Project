@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "data": {
+    "city": "Fountainebleau",
+    "state": "Florida",
+    "country": "USA",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -80.34783,
+        25.77288
+      ]
+    },
+    "current": {
+      "pollution": {
+        "ts": "2024-10-16T18:00:00.000Z",
+        "aqius": 53,
+        "mainus": "p2",
+        "aqicn": 15,
+        "maincn": "p2"
+      },
+      "weather": {
+        "ts": "2024-10-16T20:00:00.000Z",
+        "tp": 29,
+        "pr": 1013,
+        "hu": 71,
+        "ws": 3.6,
+        "wd": 70,
+        "ic": "10d"
+      }
+    }
+  }
+}
